@@ -1,0 +1,13 @@
+# PyTorch is NOT listed here on purpose.
+# Install it first with the CUDA index URL for your platform, e.g.:
+#   pip install torch torchvision --index-url https://download.pytorch.org/whl/cu128
+# A plain "pip install torch" gives a CPU-only build on Windows.
+
+numpy<2.3
+pillow>=10.0
+matplotlib>=3.7
+scikit-image>=0.22
+scipy>=1.11
+pandas>=2.0
+tqdm>=4.66
+opencv-python>=4.8

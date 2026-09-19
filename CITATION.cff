@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "Temporal Frame Prediction in Simulated Dynamic PET"
+abstract: >-
+  Benchmark of 14 predictive models for forecasting future frames of a
+  simulated dynamic 18F-FDG PET time series, evaluated with
+  leave-one-tumour-out cross-validation.
+authors:
+  - family-names: "Havaei"
+    given-names: "Matin"
+    affiliation: "K. N. Toosi University of Technology"
+version: "1.0.0"
+date-released: "2026-09-10"
+license: MIT
+keywords:
+  - positron emission tomography
+  - deep learning
+  - image time series prediction
+  - cross-validation
+  - diffusion models
